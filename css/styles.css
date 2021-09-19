@@ -387,6 +387,10 @@ h1, .h1 {
  
   font-size: 2rem;
   line-height: 2.5rem; }
+  @media only screen and (min-width: 200px) {
+    h1, .h1 {
+      font-size: 1.10rem;
+      line-height: 1.1rem; } }
   @media only screen and (min-width: 600px) {
     h1, .h1 {
       font-size: 1.5rem;
@@ -1973,7 +1977,7 @@ table#recaptcha_table, table.table-auto {
     padding: 0; }
 
 footer[role=contentinfo] {
-  background: #205060;
+  background: #000066;
   color: #fff;
   padding: 3rem 0; }
   footer[role=contentinfo] a {
