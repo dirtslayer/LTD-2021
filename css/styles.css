@@ -1955,7 +1955,7 @@ table#recaptcha_table, table.table-auto {
   fill: #205060; }
 
 .content {
-  padding: 3rem 0; }
+  padding: 1.0rem 0; }
   @media only screen and (min-width: 992px) {
     .content {
       padding: 4.8vw 0; } }
