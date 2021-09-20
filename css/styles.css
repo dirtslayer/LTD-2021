@@ -715,7 +715,9 @@ hr {
         margin-left: 58.3334%; }
       .grid .grid__cell--xxs-6 {
         flex-basis: 50%;
-        max-width: 50%; }
+        max-width: 50%;
+        min-width: 300px;
+       }
       .grid .grid__cell-offset-right--xxs-6 {
         margin-right: 50%; }
       .grid .grid__cell-offset-left--xxs-6 {
