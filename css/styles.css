@@ -1950,7 +1950,10 @@ table#recaptcha_table, table.table-auto {
 
 .masthead {
   background: #fff;
-  padding: 1.0rem 0; }
+  padding: 1.0rem 0;
+  padding-top: 0.5rem 0;
+
+ }
   .masthead--sticky {
     position: -webkit-sticky;
     position: sticky;
